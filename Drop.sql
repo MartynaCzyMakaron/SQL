@@ -1,0 +1,14 @@
+DROP TABLE Prisoner_offences;
+DROP TABLE Offence_catalog;
+DROP TABLE Activities_history;
+DROP TABLE Activities_catalog;
+DROP TABLE Job_history;
+DROP TABLE Jobs_catalog;
+DROP TABLE Prison_furlough;
+DROP TABLE Prison_misbehaviours;
+DROP TABLE Placement_history;
+DROP TABLE Cell;
+DROP TABLE Block;
+DROP TABLE Stay;
+DROP TABLE Sentences;
+DROP TABLE Prisoner;
